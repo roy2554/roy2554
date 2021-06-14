@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @roy2554
 - 👀 I’m interested in ... Python
 - 🌱 I’m currently learning ... C/C++
-
-<img src="https://img.shields.io/badge/-roy2554-black?style=flat-square&logo=github&link=https://github.com/roy2554" />
+<a href="https://github.com/roy2554">
+<img src="https://img.shields.io/badge/-roy2554-black?style=flat-square&logo=github&link=https://github.com/roy2554" alt="https://github.com/roy2554"/>
+</a>
 
 &nbsp;
 [![roy2554's GitHub stats](https://github-readme-stats.vercel.app/api?username=roy2554&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
