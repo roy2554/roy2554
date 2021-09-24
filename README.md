@@ -7,7 +7,7 @@
 
 ### Project
 <a href="https://github.com/roy2554/discord-PYBOT"><img src="https://i.ibb.co/JFVm1Lv/PYBot.png" width="50" height="50"></a>
-<a href="https://github.com/roy2554/discord-RoTools"><img src="https://i.ibb.co/njdhdLz/rotools-Logo.png" width="50" height="50"></a>
+<a href="https://github.com/roy2554/discord-RoTools"><img src="https://i.ibb.co/Xx6jKXk/Ro-Tools-JS.png" width="50" height="50"></a>
 
 ### Prefer Language
 
