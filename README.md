@@ -1,5 +1,6 @@
-&nbsp;
-[![roy2554's GitHub stats](https://github-readme-stats.vercel.app/api?username=roy2554&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![roy2554's GitHub stats](https://github-readme-stats.vercel.app/api?username=roy2554&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roy2554&hide=html,css,scss&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)  
 <br />
 <a href="https://github.com/roy2554">
 <img src="https://img.shields.io/badge/-roy2554-black?style=flat-square&logo=github&link=https://github.com/roy2554" alt="https://github.com/roy2554"/>
