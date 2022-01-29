@@ -10,7 +10,7 @@
 <a href="https://github.com/roy2554/discord-PYBOT"><img src="https://i.ibb.co/JFVm1Lv/PYBot.png" width="50" height="50"></a>
 <a href="https://github.com/roy2554/discord-RoTools"><img src="https://i.ibb.co/Xx6jKXk/Ro-Tools-JS.png" width="50" height="50"></a>
 
-### Prefer Language
+### Tech Wop
 
 <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/"/></a>&nbsp;
 <img src="https://img.shields.io/badge/-Clang-black?style=flat-square&logo=c&logoColor=white" />&nbsp;
