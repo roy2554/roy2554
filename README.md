@@ -14,7 +14,8 @@
 
 <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/"/></a>&nbsp;
 <img src="https://img.shields.io/badge/-Clang-black?style=flat-square&logo=c&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white" />  
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=white" />  
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white" />  
