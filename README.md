@@ -20,6 +20,12 @@
 <img src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&logoColor=white" />  
 
+### Things that I Learning
+
+<img src="https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras&logoColor=white" />  
+
 <!---
 roy2554/roy2554 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
